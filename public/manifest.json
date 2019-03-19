@@ -1,0 +1,26 @@
+{
+  "name": "Nongki - Herlina Prastiwi",
+  "short_name": "Nongkrong Asik",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#900C3F",
+  "icons": [{
+    "src": "images/icon-a.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "images/icon-b.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "images/icon-c.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }],
+  
+
+  "background_color": "#C70039"
+  
+}
